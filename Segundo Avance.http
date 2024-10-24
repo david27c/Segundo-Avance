@@ -1,0 +1,6 @@
+@Segundo_Avance_HostAddress = http://localhost:5287
+
+GET {{Segundo_Avance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
